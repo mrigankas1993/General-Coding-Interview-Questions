@@ -1,4 +1,4 @@
-''' Number of possible paths in a m * n matrix where only down and right motion is
+''' Number of possible paths in a m * n matrix to move from top left  to bottom right  where only down and right motion is
 is allowed
 @mriganka
 '''
